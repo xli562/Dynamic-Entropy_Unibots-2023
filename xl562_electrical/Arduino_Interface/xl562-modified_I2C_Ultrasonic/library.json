@@ -1,0 +1,16 @@
+{
+  "name": "xl562_I2C_Ultrasonic",
+  "description": "Library for the I2C Ultrasonic sensors, modified by xl562",
+  "keywords": "I2C ultrasonic sensor",
+  "authors": {
+    "name": "xl562",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "1.0",
+  "frameworks": "Arduino",
+  "platforms": "espressif32"
+}

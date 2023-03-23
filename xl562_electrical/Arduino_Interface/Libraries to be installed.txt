@@ -1,0 +1,14 @@
+*Install with all dependent libraries if asked by the Arduino IDE*
+
+Encoder:
+Encoder by Paul Stoffregen
+	-> <Encoder.h>
+
+IMU:
+Adafruit LSM6DS
+	-> <Adafruit_LSM6DS3TRC.h>
+
+Ultrasonic sensor:
+xl562-modified_I2C_Ultrasonic (**手动拖到library文件夹下**)
+	-> <Unit_Sonic.h>
+
